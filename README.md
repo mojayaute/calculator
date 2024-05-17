@@ -10,7 +10,6 @@ requires php 8.1+, node 16+ and  SQL Lite for testing, Steps to install
 - php artisan db:seed
 - php artisan serve
 - npm run dev
-- For Tesing: php artisan test  
 
  For Tesing: php artisan test 
 
