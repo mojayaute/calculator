@@ -6,6 +6,7 @@ requires php 8.1+, node 16+ and  SQL Lite for testing, Steps to install
 
 - setup .env file with your credentials
 - composer install
+- npm install
 - php artisan migrate
 - php artisan db:seed
 - php artisan serve
